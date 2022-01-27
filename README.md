@@ -31,5 +31,3 @@ code: [Javascript, HTML, CSS],
 learn: [Node.js]
 }
 ```
-
-[![Toni GitHub stats](https://github-readme-stats.vercel.app/api?username=toniblopez)](https://github.com/toniblopez/github-readme-stats)
