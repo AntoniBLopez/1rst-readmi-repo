@@ -27,7 +27,7 @@ _____________|','   ///_/-------------/   |
 
 ```Javascript
 const toniBLopez = {
-  code: [Javascript, HTML, CSS, Node.js],
-  learn: [Blockchain]
+  code: ["Javascript", "HTML", "CSS", "Node.js"],
+  learn: ["Blockchain"]
 }
 ```
