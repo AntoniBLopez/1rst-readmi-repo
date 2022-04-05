@@ -1,6 +1,5 @@
-## Hi there 👋 My name is Toni and i'm a software development
+## Hi there 👋 Welcome to my Hitgub profile, my name is Toni and i'm a software development
 
-**Welcome to my Hitgub profile**
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
