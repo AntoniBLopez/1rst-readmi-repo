@@ -27,7 +27,7 @@ _____________|','   ///_/-------------/   |
 ```Javascript
 const toniBLopez = {
   code: ["HTML", "CSS", "JavaScript", "Node.js", "SQL"],
-  tools: ["Git & GitHub", "VS Code", { databases: ["Docker", "MySQL"] }, "Postman", "Insomnia", "Figma"],
+  tools: ["Git & GitHub", "VS Code", { databases: ["Docker", "MySQL", "PostgreSQL"] }, "Postman", "Insomnia", "Figma"],
   learning: ["Typescript", "Blockchain"]
 }
 ```
