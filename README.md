@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my Hitgub profile, my name is Toni and i'm a software development
+## Hi there 👋 Welcome to my Hitgub profile, my name is Toni and i'm a software developer
 
 ```
                              \\\\\\\
