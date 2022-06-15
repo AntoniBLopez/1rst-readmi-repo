@@ -28,6 +28,6 @@ _____________|','   ///_/-------------/   |
 const toniBLopez = {
   code: ["HTML", "CSS", "JavaScript", "Node.js", "SQL"],
   tools: ["Git & GitHub", "VS Code", { databases: ["Docker", "MySQL", "PostgreSQL"] }, "Postman", "Insomnia", "Figma"],
-  learning: ["Typescript", "Blockchain"]
+  learning: ["React", "Solidity"]
 }
 ```
