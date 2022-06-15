@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my Hitgub profile, my name is Toni and i'm a software developer
+## Hi there! Welcome to my Hitgub profile, my name is Toni and i'm a software developer 💻
 
 ```
                              \\\\\\\
@@ -22,7 +22,7 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-## About me in code
+## About me in code 😀
 
 ```Javascript
 const toniBLopez = {
