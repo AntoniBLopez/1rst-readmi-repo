@@ -1,4 +1,4 @@
-## Hi there! Welcome to my Hitgub profile, my name is Toni and i'm a software developer 💻
+## Welcome to my Github profile, my name is Toni and i'm a fullstack software developer
 
 ```
                              \\\\\\\
@@ -22,12 +22,11 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-## About me in code 😀
+### About me in code:
 
 ```Javascript
-const toniBLopez = {
-  code: ["HTML", "CSS", "JavaScript", "Node.js", "SQL"],
-  tools: ["Git & GitHub", "VS Code", { databases: ["Docker", "MySQL", "PostgreSQL"] }, "Postman", "Insomnia", "Figma"],
-  learning: ["React", "Solidity"]
+const skills = {
+  code: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'React', 'MongoDB', 'Express', 'SQL', 'noSQL'],
+  tools: ['Figma', 'Git', 'Github', 'Gitlab' 'VS Code', 'Postman', 'Insomnia']
 }
 ```
